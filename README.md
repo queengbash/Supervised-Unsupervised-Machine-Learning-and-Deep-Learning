@@ -4,6 +4,10 @@
 
 Roland Abi
 
+# Teaching Assistant (s)
+
+Terkuma Saaondo
+
 ## Supervised Machine Learning, Unsupervised Machine Learning, and Deep Learning with Python
 
 A comprehensive repository introducing the core machine learning and deep learning workflow with Python, using real, industry-standard tools: pandas, scikit-learn, and TensorFlow/Keras.
