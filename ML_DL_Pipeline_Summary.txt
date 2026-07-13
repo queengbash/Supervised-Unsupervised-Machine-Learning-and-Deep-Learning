@@ -1,0 +1,43 @@
+Supervised ML / Deep Learning Presentation Summary
+Source: Supervised_ML_DL_Python_Presentation.pdf
+Relevant Slide: page_10_Image65.jpg (ML pipeline diagram)
+
+ML Pipeline Vocabulary and Concepts:
+1. Data Collection and Exploration
+   - collect samples
+   - identify ranges
+   - compute histograms
+   - identify anomalies
+
+2. Data Cleaning and Preprocessing
+   - handle missing values
+   - correct/remove errors
+   - normalize data
+   - partition datasets (train/test split)
+   - dimensionality reduction
+
+3. Feature Engineering
+   - create interaction terms
+   - add polynomial features
+   - select important features
+   - transform features
+
+4. Model Training and Validation
+   - train models on training data
+   - tune hyperparameters
+   - validate models on held-out validation data
+
+5. Model Evaluation and Selection
+   - evaluate models on test data
+   - compare metrics
+   - select best performing model
+
+How this maps to ML_DL_Summer_School_2026.ipynb:
+- train_test_split and scaling = Data Cleaning and Preprocessing
+- logistic regression training = Model Training and Validation
+- ROC curve and classification report = Model Evaluation and Selection
+- discussion of Glucose, BMI, Age = Feature Engineering / feature importance
+
+Downloadable items created:
+- ML_DL_Pipeline_Summary.txt
+- Extracted slide image: pdf_images/page_10_Image65.jpg
